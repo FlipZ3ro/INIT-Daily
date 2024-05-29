@@ -3,9 +3,9 @@
 
 1. Clone the repo `git clone https://github.com/FlipZ3ro/INIT-Daily.git`
 
-2. cp env.example .env
+2. `cp env.example .env`
 
-3. nano .env
+3. `nano .env`
 
 3. Install the pkg `npm install`
 
