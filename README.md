@@ -7,7 +7,6 @@ nvm install 22
 nvm use 22
 ```
 
-
 ## Installation
 
 1. Clone the repo `git clone https://github.com/FlipZ3ro/INIT-Daily.git`
@@ -22,27 +21,4 @@ nvm use 22
 
 Type `npm run start`
 
-## Tasks Order
 
-### Swapping
-
-1. **INIT <> TOKEN:**
-
-- INIT <> USDC
-- INIT <> TIA
-- INIT <> ETH
-- INIT <> TUC
-
-2. **TOKEN <> INIT**
-
-- USDC <> INIT
-- TIA <> INIT
-- ETH <> INIT
-- TUC <> INIT
-
-### Staking
-
-- DELEGATE INIT
-- INIT <> USDC
-- INIT <> ETH
-- INIT <> TIA
